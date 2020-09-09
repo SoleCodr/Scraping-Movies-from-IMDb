@@ -9,5 +9,6 @@ This repository scraps movies from IMDb from year 2010 to 2020 only first 5 page
 
 ## Python Libraries used here:
 - BeautifulSoap
-- requests
+- Requests
 - Pandas
+- HTML.parser
