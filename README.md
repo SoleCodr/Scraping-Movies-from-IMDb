@@ -12,3 +12,6 @@ This repository scraps movies from IMDb from year 2010 to 2020 only first 5 page
 - Requests
 - Pandas
 - HTML.parser
+
+### Developed By :-
+- Kuldeep Sharma
